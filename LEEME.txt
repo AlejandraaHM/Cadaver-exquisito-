@@ -1,0 +1,12 @@
+Coloca aquí tus videos o imágenes. Nombres que el proyecto busca solos:
+
+  scene-01.mp4  ...  scene-17.mp4     (video ambiental en bucle, sin sonido)
+  scene-01.jpg  ...  scene-17.jpg     (imagen estática, alternativa o respaldo)
+
+Si el archivo existe, reemplaza el dibujo de código de esa escena.
+Si no existe, la escena sigue funcionando con su dibujo propio.
+
+Recomendado: MP4 (H.264), 1920x1080, 24 o 25 fps, 8-20 s con bucle limpio, sin audio.
+
+Las escenas 14, 16 y 17 avanzan por pulsos; si usas un video, dura toda la escena (todos los pulsos).
+La 16 debe empezar igual que la 11: si usas video propio, reutiliza el mismo clip al inicio.
